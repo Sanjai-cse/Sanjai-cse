@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Sanjai L</span></h1>
-<h3 align="center">💻 Software Engineer | 🐍 Python Developer | ☁️ Data Enthusiast</h3>
+<h3 align="center">💻 Software Engineer | 🐍 Python Developer | Java Developer|☁️ Data Enthusiast</h3>
 
 ---
 
